@@ -9,7 +9,7 @@ We are an activist group publishing articles on China. Contact us via [Mail](mai
  - [Colonization Xinjiang](./assets/audio/colonisationxinjiang.mp3)
  - [hanno](./assets/audio/hanno.mp3)
  - [hongkong](./assets/audio/hongkong.mp3)
- - [kuerban](./assets/audio/kuerban.mp3)
+ - [Haiyeur Kuerban wird zum Thema Kulturelle Unterdrückung in Xinjiang interviewt](./assets/audio/kuerban.mp3)
  - [ralfruckus, shortened](./assets/audio/ralfruckus_short.mp3) and [ralfruckus, long](./assets/audio/ralfruckus_long.mp3)
  - [Covid](./assets/audio/covid.mp3)
  - [Unterdrückung](./assets/oppression.mp3)
