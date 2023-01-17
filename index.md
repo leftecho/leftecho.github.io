@@ -11,8 +11,9 @@ We are an activist group publishing articles on China. Contact us via [Mail](mai
  - [Interview mit Soziologe Hui Xu zu den Covid-Protesten 2022 - ENG](./assets/oppression.mp3)
  - [Gesellschaftswissenschaftler Darren Byler zur Kolonisierung Xinjiangs - ENG](./assets/audio/colonisationxinjiang.mp3)
  - [Interview mit Hanno Schedler von der Gesellschaft für bedrohte Völker über die Lage in Xinjiang (2021) - DE](./assets/audio/hanno.mp3)
- - [Radiobeitrag zu Hongkong 2021 - DE](./assets/audio/hongkong.mp3)
  - [Interview mit Haiyeur Kuerban (Uyghur World Congress) zum Thema Kulturelle Unterdrückung in Xinjiang (2021) - DE](./assets/audio/kuerban.mp3)
+ - [Radiobeitrag zu Hongkong 2021 - DE](./assets/audio/hongkong.mp3)
+
 
 
 ## Newspaper Articles
