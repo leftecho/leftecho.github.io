@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redebeitrag „Storm the fortress, break all borders"
-author: Esther Lichtenfeld
+author: Left Echo
 ---
 
 Dieser Rederbeitrag wurde von Leipzig stand with Hong Kong verfasst. Er
