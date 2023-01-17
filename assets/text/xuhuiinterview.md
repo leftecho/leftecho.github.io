@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Transcript
-author: Esther Lichtenfeld
+title: Transcript Interview Covid Protests with Hui Xu
+author: Felix Rumbach, Sarah Peters, Esther Lichtenfeld
 ---
 
-**1st question (13:00) - What happened in the Foxconn factory in
+**What happened in the Foxconn factory in
 Zhengzhou in October?**
 
 Over the past two months, two different incidents appeared on Chinese
@@ -49,7 +49,7 @@ government then started to provide some transportation so the workers
 could get to their hometowns. This happened at the beginning of
 October. 
 
-**20:45 What happened before these mass escapes that made the workers so
+**What happened before these mass escapes that made the workers so
 anxious about their situation?**
 
 There is no scientifical knowledge or information on omicron so people
@@ -64,7 +64,7 @@ inform the other workers about the covid infactions inside the factory.
 This lack of information created room for rumors. People heard workers
 are dying from covid. 
 
-**30:06 You also worked in Chinese factories, how was your experience?**
+**You also worked in Chinese factories, how was your experience?**
 
 The first factory I worked at was Foxconn in ~~Chongqing~~ (hab nicht
 richtig verstanden in welcher stadt) where I manufactured hp laptops
@@ -86,7 +86,7 @@ old they have to work on those assembly lines. It was called an
 internship  but actually theses students can not learn any skills at
 Foxconn they are just like working machines. 
 
-**36:41 What is the closed lop system?**
+**What is the closed lop system?**
 
 In the context of covid the factories and the government decided that
 workers will stay inside the factories to reduce the chance if them
@@ -99,7 +99,7 @@ noodles, everyday. They spend there whole lives at the factory in the
 name of communist progression.I cannot imagine that kind of life.
 That\'s why they protested this Novermber..
 
-**43:03 Do you think these strict covid rules are necessary?**
+**Do you think these strict covid rules are necessary?**
 
 To me they are really not necessary, it\'s just ridiculous. These
 policies are not based on scientific research and they ignore peoples
