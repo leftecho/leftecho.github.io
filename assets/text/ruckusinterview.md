@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ralf Ruckus über die Proteste gegen die Corona-Politik in China
-author: Esther Lichtenfeld
+author: Left Echo
 ---
 
 Ralf Ruckus schreibt, übersetzt und publiziert Texte zu sozialen Kämpfen
