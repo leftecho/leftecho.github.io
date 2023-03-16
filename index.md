@@ -6,14 +6,14 @@ We are an activist group publishing articles on China. Contact us via [Mail](mai
 
 ## Audio Contributions
 
- - [Radiobeitrag über die Covid-Proteste 2022 - DE](./assets/audio/covid.mp3)
+ - [Radiobeitrag über die Covid-Proteste in China 2022 - DE](./assets/audio/covid.mp3)
  - [Interview mit Autor Ralf Ruckus über Covid-Proteste 2022 (kurz) - DE](./assets/audio/ralfruckus_short.mp3) and [(lang)](./assets/audio/ralfruckus_long.mp3)
  - [Interview mit Soziologe Hui Xu zu den Covid-Protesten 2022 - ENG](./assets/oppression.mp3)
  - [Radiosendung über die Unterdrückung und Enteignung von Uighur:innen in Xinjiang (2021) - DE](https://www.freie-radios.net/106944)
  - [Gesellschaftswissenschaftler Darren Byler zur Kolonisierung Xinjiangs - ENG](./assets/audio/colonisationxinjiang.mp3)
  - [Interview mit Hanno Schedler von der Gesellschaft für bedrohte Völker über die Lage in Xinjiang (2021) - DE](./assets/audio/hanno.mp3)
  - [Interview mit Haiyeur Kuerban (Uyghur World Congress) zum Thema Kulturelle Unterdrückung in Xinjiang (2021) - DE](./assets/audio/kuerban.mp3)
- - [Radiobeitrag zu Hongkong 2021 - DE](./assets/audio/hongkong.mp3)
+ - [Radiobeitrag zur Lage in Hongkong 2021 - DE](./assets/audio/hongkong.mp3)
 
 
 
